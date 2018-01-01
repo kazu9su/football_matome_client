@@ -1,0 +1,3 @@
+rootProject.name = 'football_matome_client'
+
+include ':app'
